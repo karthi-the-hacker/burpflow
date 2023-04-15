@@ -31,7 +31,8 @@ configure burpflow with Burp Suite
 ```http
   Add new http proxy to Host : 127.0.0.1 Port : 7777
 ```
-                
+
+
 ## Usage
 
 Example for single url
@@ -78,6 +79,7 @@ Example for list of urls
     $ burpflow [option]
 
     Usage: burpflow [options]
+
 
 ```
 
