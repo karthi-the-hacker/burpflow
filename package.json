@@ -1,12 +1,12 @@
 {
   "name": "burpflow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "BurpFlow is a powerful tool for bug bounty hunters and penetration testers to load recon data into burp suite.",
-  "homepage": "https://github.com/karthi-the-hacker/subsleuth",
+  "homepage": "https://github.com/karthi-the-hacker/burpflow",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/karthi-the-hacker/athenaa.git"
+    "url": "https://github.com/karthi-the-hacker/burpflow.git"
   },
   "scripts": {
     "start": "node ."
