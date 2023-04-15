@@ -10,9 +10,9 @@
 //lib and includes section 
 
 
-const help = require('./lib/help');
-const fileread = require('./lib/filereader');
-const BurpFlow = require('./lib/brupflow')
+const help = require('./utils/help');
+const fileread = require('./utils/filereader');
+const BurpFlow = require('./utils/brupflow')
 const yargs = require('yargs/yargs')
 const { hideBin } = require('yargs/helpers')
 //variable and object declariation section
