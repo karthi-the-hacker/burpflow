@@ -4,9 +4,11 @@
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Follow Twitter](https://img.shields.io/twitter/follow/karthithehacker?style=social)](https://twitter.com/karthithehacker)
 
 
 ## License
@@ -20,7 +22,6 @@ Install burpflow with npm
 
 ```bash
   npm install burpflow -g
-  
 ```
 
 ## Configuration
@@ -31,13 +32,17 @@ configure burpflow with Burp Suite
   Add new http proxy to Host : 127.0.0.1 Port : 7777
 ```
                 
-## Usage/Example for single url
+## Usage
+
+Example for single url
 
 ```bash
   burpflow -u http://example.com 
 ```
 
-## Usage/Example for list of urls
+## Usage
+
+Example for list of urls
 
 ```bash
   burpflow -l urls.txt
@@ -72,7 +77,7 @@ configure burpflow with Burp Suite
 
     $ burpflow [option]
 
-    Usage: index.js [options]
+    Usage: burpflow [options]
 
 ```
 
@@ -92,7 +97,7 @@ configure burpflow with Burp Suite
 
 
 
-## Authors
+## Author
 
 - [@karthithehacker](https://github.com/karthi-the-hacker/)
 
